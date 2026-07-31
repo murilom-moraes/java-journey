@@ -4,11 +4,11 @@ Repositório voltado ao registro e consolidação de parte dos meus estudos e pr
 
 ## 📂 Conteúdos, Projetos & Exercícios
 
-* [`Estrutura Sequencial`](./src/exercises/sequential): Conceitos básicos, entrada/saída de dados e operadores.
-* [`Estrutura Condicional`](./src/exercises/conditional): Tomadas de decisão e estruturas `if-else` e `switch-case`.
-* [`Estruturas Repetitivas`](./src/exercises/repetitive): Laços de repetição `while`, `do-while` e `for`.
+* [Estrutura Sequencial](./src/exercises/sequential): Conceitos básicos, entrada/saída de dados e operadores.
+* [Estrutura Condicional](./src/exercises/conditional): Tomadas de decisão e estruturas `if-else` e `switch-case`.
+* [Estruturas Repetitivas](./src/exercises/repetitive): Laços de repetição `while`, `do-while` e `for`.
 * Tópicos Básicos: Operadores bitwise, funções para sintaxe e manipulação de strings.
-* [`Introdução à POO`](./src): Classes, objetos, atributos, métodos e membros estáticos.
+* [Introdução à POO](./src): Classes, objetos, atributos, métodos e membros estáticos.
 * Construtores, Sobrecarga e Encapsulamento: Organização e proteção dos dados das classes.
 * Memória, Arrays e Listas: Gerenciamento de memória, vetores e coleções de dados.
 * Data e Hora: Manipulação de datas e horários com a API Java (`java.time`).
@@ -31,5 +31,5 @@ Repositório voltado ao registro e consolidação de parte dos meus estudos e pr
 
 ## 👨‍💻 Autor
 
-* [`Murilo Mendes Moraes`](https://github.com/murilom-moraes) — Estudante de Engenharia de Software
-* [`LinkedIn`](https://www.linkedin.com/in/murilom-moraes/) — Conecte-se comigo
+* [Murilo Mendes Moraes](https://github.com/murilom-moraes) — Estudante de Engenharia de Software
+* [LinkedIn](https://www.linkedin.com/in/murilom-moraes/) — Conecte-se comigo
