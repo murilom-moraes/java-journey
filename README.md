@@ -2,13 +2,13 @@
 
 Repositório voltado ao registro e consolidação de parte dos meus estudos e práticas no ecossistema Java, englobando conteúdos acadêmicos, cursos complementares e projetos de fixação.
 
-## 📂 Conteúdos, Projetos & Exercícios
+## 🪴 Conteúdos, Projetos & Exercícios
 
 * [Estrutura Sequencial](./src/exercises/sequential): Conceitos básicos, entrada/saída de dados e operadores.
 * [Estrutura Condicional](./src/exercises/conditional): Tomadas de decisão e estruturas `if-else` e `switch-case`.
 * [Estruturas Repetitivas](./src/exercises/repetitive): Laços de repetição `while`, `do-while` e `for`.
 * Tópicos Básicos: Operadores bitwise, funções para sintaxe e manipulação de strings.
-* [Introdução à POO](./src): Classes, objetos, atributos, métodos e membros estáticos.
+* [Introdução à POO](./src/exercises/poo): Classes, objetos, atributos, métodos e membros estáticos.
 * Construtores, Sobrecarga e Encapsulamento: Organização e proteção dos dados das classes.
 * Memória, Arrays e Listas: Gerenciamento de memória, vetores e coleções de dados.
 * Data e Hora: Manipulação de datas e horários com a API Java (`java.time`).
@@ -23,7 +23,7 @@ Repositório voltado ao registro e consolidação de parte dos meus estudos e pr
 * Projeto Jogo de Xadrez: Aplicação de POO avançada em modo console.
 * Projeto Spring Boot + MongoDB: Desenvolvimento Web de serviços REST com banco NoSQL.
 
-## ⚙️ Informações Técnicas
+## 🪛 Informações Técnicas
 
 * **Linguagem:** Java (JDK 21)
 * **Ambiente Principal:** Visual Studio Code
